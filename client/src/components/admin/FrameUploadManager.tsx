@@ -12,6 +12,7 @@ import {
   Film,
   Zap,
 } from 'lucide-react';
+import { API_BASE } from '../../services/api';
 
 interface FrameUploadManagerProps {
   onSuccess?: () => void;
@@ -67,7 +68,7 @@ export const FrameUploadManager: React.FC<FrameUploadManagerProps> = ({
         });
       }
 
-      const res = await fetch('/api/frames/upload', {
+      const res = await fetch(`${API_BASE}/frames/upload`, {
         method: 'POST',
         body: formData,
       });
@@ -104,7 +105,7 @@ export const FrameUploadManager: React.FC<FrameUploadManagerProps> = ({
     });
 
     try {
-      const res = await fetch('/api/frames/apply-workspace-zip', {
+      const res = await fetch(`${API_BASE}/frames/apply-workspace-zip`, {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',

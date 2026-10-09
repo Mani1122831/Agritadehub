@@ -2,6 +2,7 @@ import React, { useEffect, useRef, useState, useCallback } from 'react';
 import { Play, Pause, RotateCcw, Sparkles, Film, ArrowDown, ShoppingBag, Mic, FolderUp } from 'lucide-react';
 import { Link } from 'react-router-dom';
 import { FrameUploadModal } from '../admin/FrameUploadModal';
+import { API_BASE } from '../../services/api';
 
 export const CinematicScrollCanvas: React.FC = () => {
   const containerRef = useRef<HTMLDivElement>(null);
@@ -38,7 +39,7 @@ export const CinematicScrollCanvas: React.FC = () => {
     }
 
     try {
-      const apiRes = await fetch(`/api/frames?t=${Date.now()}`);
+      const apiRes = await fetch(`${API_BASE}/frames?t=${Date.now()}`);
       if (apiRes.ok) {
         const data = await apiRes.json();
         if (Array.isArray(data.frames) && data.frames.length > 0) {
