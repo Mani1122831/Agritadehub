@@ -344,3 +344,17 @@ Before presenting or deploying the application, verify the implemented flows end
 **AgriTrade Hub AI — SIH 2026 / SIH26033**
 
 > **Mission:** Help farmers and FPOs reach the right buyers by bringing agricultural supply, buyer demand, trustworthy information, and logistics planning into one platform.
+
+
+
+## 🌐 Live Demo
+
+**Website:** [AgriTrade Hub AI](https://agritadehub.vercel.app/)
+
+Explore the agricultural marketplace connecting farmers/FPOs
+directly with consumers, retailers, and bulk buyers.
+
+### 🚀 Project Links
+- **Live Website:** https://agritadehub.vercel.app/
+- **Source Code:** Add your GitHub repository URL here.
+
