@@ -1,0 +1,949 @@
+{
+  "totalProducts": 35,
+  "crossReusedCount": 32,
+  "crossReused": [
+    {
+      "url": "https://images.unsplash.com/photo-1592924357228-91a4daadcfea?auto=format&fit=crop&w=800&q=80",
+      "distinctProducts": [
+        "Fresh Farm Tomatoes",
+        "Tender Green Okra (Bhindi)"
+      ],
+      "usages": [
+        "prod_01: Fresh Farm Tomatoes (slot 0)",
+        "prod_01: Fresh Farm Tomatoes (slot 1)",
+        "prod_22: Tender Green Okra (Bhindi) (slot 4)"
+      ]
+    },
+    {
+      "url": "https://images.unsplash.com/photo-1618512496248-a07fe83aa8cb?auto=format&fit=crop&w=800&q=80",
+      "distinctProducts": [
+        "Nasik Red Onions",
+        "Ooty White Garlic Bulbs"
+      ],
+      "usages": [
+        "prod_02: Nasik Red Onions (slot 0)",
+        "prod_02: Nasik Red Onions (slot 1)",
+        "prod_18: Ooty White Garlic Bulbs (slot 3)"
+      ]
+    },
+    {
+      "url": "https://images.unsplash.com/photo-1540420773420-3366772f4999?auto=format&fit=crop&w=800&q=80",
+      "distinctProducts": [
+        "Agra Jyoti Potatoes",
+        "Snow White Cauliflower",
+        "Ooty White Garlic Bulbs"
+      ],
+      "usages": [
+        "prod_03: Agra Jyoti Potatoes (slot 4)",
+        "prod_23: Snow White Cauliflower (slot 3)",
+        "prod_18: Ooty White Garlic Bulbs (slot 2)"
+      ]
+    },
+    {
+      "url": "https://images.unsplash.com/photo-1563865436874-9aef32095fad?auto=format&fit=crop&w=800&q=80",
+      "distinctProducts": [
+        "Fresh Pungent Green Chillies",
+        "Shimla Green Bell Capsicum",
+        "Guntur Teja Red Chillies"
+      ],
+      "usages": [
+        "prod_09: Fresh Pungent Green Chillies (slot 0)",
+        "prod_09: Fresh Pungent Green Chillies (slot 1)",
+        "prod_25: Shimla Green Bell Capsicum (slot 2)",
+        "prod_08: Guntur Teja Red Chillies (slot 2)"
+      ]
+    },
+    {
+      "url": "https://images.unsplash.com/photo-1588252303782-cb80119abd6d?auto=format&fit=crop&w=800&q=80",
+      "distinctProducts": [
+        "Fresh Pungent Green Chillies",
+        "Guntur Teja Red Chillies",
+        "Lakadong High-Curcumin Turmeric",
+        "Malabar Black Pepper (Tellicherry Garbled)",
+        "Idukki Green Cardamom (8mm Bold)"
+      ],
+      "usages": [
+        "prod_09: Fresh Pungent Green Chillies (slot 2)",
+        "prod_08: Guntur Teja Red Chillies (slot 0)",
+        "prod_08: Guntur Teja Red Chillies (slot 1)",
+        "prod_10: Lakadong High-Curcumin Turmeric (slot 4)",
+        "prod_33: Malabar Black Pepper (Tellicherry Garbled) (slot 3)",
+        "prod_34: Idukki Green Cardamom (8mm Bold) (slot 3)"
+      ]
+    },
+    {
+      "url": "https://images.unsplash.com/photo-1598170845058-32b9d6a5da37?auto=format&fit=crop&w=800&q=80",
+      "distinctProducts": [
+        "Fresh Leafy Coriander Bunches",
+        "Fresh Farm Spinach (Palak)"
+      ],
+      "usages": [
+        "prod_17: Fresh Leafy Coriander Bunches (slot 0)",
+        "prod_17: Fresh Leafy Coriander Bunches (slot 1)",
+        "prod_26: Fresh Farm Spinach (Palak) (slot 2)"
+      ]
+    },
+    {
+      "url": "https://images.unsplash.com/photo-1509358271058-acd22cc93898?auto=format&fit=crop&w=800&q=80",
+      "distinctProducts": [
+        "Fresh Leafy Coriander Bunches",
+        "Bold Raw Groundnuts (Peanuts)",
+        "Rajasthan Yellow Mustard Seeds"
+      ],
+      "usages": [
+        "prod_17: Fresh Leafy Coriander Bunches (slot 2)",
+        "prod_11: Bold Raw Groundnuts (Peanuts) (slot 2)",
+        "prod_36: Rajasthan Yellow Mustard Seeds (slot 0)",
+        "prod_36: Rajasthan Yellow Mustard Seeds (slot 1)"
+      ]
+    },
+    {
+      "url": "https://images.unsplash.com/photo-1576045057995-568f588f82fb?auto=format&fit=crop&w=800&q=80",
+      "distinctProducts": [
+        "Fresh Leafy Coriander Bunches",
+        "Snow White Cauliflower",
+        "Crisp Green Cabbage",
+        "Fresh Farm Spinach (Palak)"
+      ],
+      "usages": [
+        "prod_17: Fresh Leafy Coriander Bunches (slot 3)",
+        "prod_23: Snow White Cauliflower (slot 4)",
+        "prod_24: Crisp Green Cabbage (slot 4)",
+        "prod_26: Fresh Farm Spinach (Palak) (slot 0)",
+        "prod_26: Fresh Farm Spinach (Palak) (slot 1)"
+      ]
+    },
+    {
+      "url": "https://images.unsplash.com/photo-1615485290382-441e4d049cb5?auto=format&fit=crop&w=800&q=80",
+      "distinctProducts": [
+        "Fresh Leafy Coriander Bunches",
+        "Solapur Bhagwa Pomegranates",
+        "Guntur Teja Red Chillies",
+        "Lakadong High-Curcumin Turmeric",
+        "Ooty White Garlic Bulbs",
+        "Wayanad Fresh Earthy Ginger",
+        "Malabar Black Pepper (Tellicherry Garbled)",
+        "Idukki Green Cardamom (8mm Bold)",
+        "Rajasthan Yellow Mustard Seeds",
+        "Natural Kolhapur Sugarcane Jaggery (Gur)"
+      ],
+      "usages": [
+        "prod_17: Fresh Leafy Coriander Bunches (slot 4)",
+        "prod_29: Solapur Bhagwa Pomegranates (slot 0)",
+        "prod_29: Solapur Bhagwa Pomegranates (slot 1)",
+        "prod_08: Guntur Teja Red Chillies (slot 4)",
+        "prod_10: Lakadong High-Curcumin Turmeric (slot 0)",
+        "prod_10: Lakadong High-Curcumin Turmeric (slot 1)",
+        "prod_18: Ooty White Garlic Bulbs (slot 4)",
+        "prod_19: Wayanad Fresh Earthy Ginger (slot 0)",
+        "prod_19: Wayanad Fresh Earthy Ginger (slot 1)",
+        "prod_33: Malabar Black Pepper (Tellicherry Garbled) (slot 4)",
+        "prod_34: Idukki Green Cardamom (8mm Bold) (slot 4)",
+        "prod_36: Rajasthan Yellow Mustard Seeds (slot 3)",
+        "prod_37: Natural Kolhapur Sugarcane Jaggery (Gur) (slot 3)"
+      ]
+    },
+    {
+      "url": "https://images.unsplash.com/photo-1525607551316-4a8e16d1f9ba?auto=format&fit=crop&w=800&q=80",
+      "distinctProducts": [
+        "Tender Green Okra (Bhindi)",
+        "Shimla Green Bell Capsicum"
+      ],
+      "usages": [
+        "prod_22: Tender Green Okra (Bhindi) (slot 0)",
+        "prod_22: Tender Green Okra (Bhindi) (slot 1)",
+        "prod_25: Shimla Green Bell Capsicum (slot 3)"
+      ]
+    },
+    {
+      "url": "https://images.unsplash.com/photo-1563565375-f3fdfdbefa83?auto=format&fit=crop&w=800&q=80",
+      "distinctProducts": [
+        "Tender Green Okra (Bhindi)",
+        "Crisp Green Cabbage",
+        "Shimla Green Bell Capsicum"
+      ],
+      "usages": [
+        "prod_22: Tender Green Okra (Bhindi) (slot 2)",
+        "prod_24: Crisp Green Cabbage (slot 3)",
+        "prod_25: Shimla Green Bell Capsicum (slot 0)",
+        "prod_25: Shimla Green Bell Capsicum (slot 1)"
+      ]
+    },
+    {
+      "url": "https://images.unsplash.com/photo-1594282486552-05b4d80fbb9f?auto=format&fit=crop&w=800&q=80",
+      "distinctProducts": [
+        "Tender Green Okra (Bhindi)",
+        "Snow White Cauliflower",
+        "Crisp Green Cabbage",
+        "Shimla Green Bell Capsicum",
+        "Fresh Farm Spinach (Palak)"
+      ],
+      "usages": [
+        "prod_22: Tender Green Okra (Bhindi) (slot 3)",
+        "prod_23: Snow White Cauliflower (slot 2)",
+        "prod_24: Crisp Green Cabbage (slot 0)",
+        "prod_24: Crisp Green Cabbage (slot 1)",
+        "prod_25: Shimla Green Bell Capsicum (slot 4)",
+        "prod_26: Fresh Farm Spinach (Palak) (slot 4)"
+      ]
+    },
+    {
+      "url": "https://images.unsplash.com/photo-1568584711075-3d021a7c3ca3?auto=format&fit=crop&w=800&q=80",
+      "distinctProducts": [
+        "Snow White Cauliflower",
+        "Crisp Green Cabbage",
+        "Fresh Farm Spinach (Palak)"
+      ],
+      "usages": [
+        "prod_23: Snow White Cauliflower (slot 0)",
+        "prod_23: Snow White Cauliflower (slot 1)",
+        "prod_24: Crisp Green Cabbage (slot 2)",
+        "prod_26: Fresh Farm Spinach (Palak) (slot 3)"
+      ]
+    },
+    {
+      "url": "https://images.unsplash.com/photo-1553279768-865429fa0078?auto=format&fit=crop&w=800&q=80",
+      "distinctProducts": [
+        "Banganapalli Golden Mangoes",
+        "Ratnagiri Alphonso Mangoes (Hapus)"
+      ],
+      "usages": [
+        "prod_04: Banganapalli Golden Mangoes (slot 0)",
+        "prod_04: Banganapalli Golden Mangoes (slot 1)",
+        "prod_27: Ratnagiri Alphonso Mangoes (Hapus) (slot 2)"
+      ]
+    },
+    {
+      "url": "https://images.unsplash.com/photo-1601493700631-2b16ec4b4716?auto=format&fit=crop&w=800&q=80",
+      "distinctProducts": [
+        "Banganapalli Golden Mangoes",
+        "Ratnagiri Alphonso Mangoes (Hapus)"
+      ],
+      "usages": [
+        "prod_04: Banganapalli Golden Mangoes (slot 2)",
+        "prod_27: Ratnagiri Alphonso Mangoes (Hapus) (slot 0)",
+        "prod_27: Ratnagiri Alphonso Mangoes (Hapus) (slot 1)"
+      ]
+    },
+    {
+      "url": "https://images.unsplash.com/photo-1591073113125-e46713c829ed?auto=format&fit=crop&w=800&q=80",
+      "distinctProducts": [
+        "Banganapalli Golden Mangoes",
+        "Ratnagiri Alphonso Mangoes (Hapus)"
+      ],
+      "usages": [
+        "prod_04: Banganapalli Golden Mangoes (slot 3)",
+        "prod_27: Ratnagiri Alphonso Mangoes (Hapus) (slot 3)"
+      ]
+    },
+    {
+      "url": "https://images.unsplash.com/photo-1605027990121-cbae9e0642df?auto=format&fit=crop&w=800&q=80",
+      "distinctProducts": [
+        "Banganapalli Golden Mangoes",
+        "Ratnagiri Alphonso Mangoes (Hapus)"
+      ],
+      "usages": [
+        "prod_04: Banganapalli Golden Mangoes (slot 4)",
+        "prod_27: Ratnagiri Alphonso Mangoes (Hapus) (slot 4)"
+      ]
+    },
+    {
+      "url": "https://images.unsplash.com/photo-1560806887-1e4cd0b6cbd6?auto=format&fit=crop&w=800&q=80",
+      "distinctProducts": [
+        "Kashmir Red Delicious Apples",
+        "Solapur Bhagwa Pomegranates",
+        "Natural Kolhapur Sugarcane Jaggery (Gur)"
+      ],
+      "usages": [
+        "prod_28: Kashmir Red Delicious Apples (slot 0)",
+        "prod_28: Kashmir Red Delicious Apples (slot 1)",
+        "prod_29: Solapur Bhagwa Pomegranates (slot 4)",
+        "prod_37: Natural Kolhapur Sugarcane Jaggery (Gur) (slot 4)"
+      ]
+    },
+    {
+      "url": "https://images.unsplash.com/photo-1550258987-190a2d41a8ba?auto=format&fit=crop&w=800&q=80",
+      "distinctProducts": [
+        "Solapur Bhagwa Pomegranates",
+        "Natural Kolhapur Sugarcane Jaggery (Gur)"
+      ],
+      "usages": [
+        "prod_29: Solapur Bhagwa Pomegranates (slot 2)",
+        "prod_37: Natural Kolhapur Sugarcane Jaggery (Gur) (slot 2)"
+      ]
+    },
+    {
+      "url": "https://images.unsplash.com/photo-1541832676-9b763b0239ab?auto=format&fit=crop&w=800&q=80",
+      "distinctProducts": [
+        "Solapur Bhagwa Pomegranates",
+        "Natural Kolhapur Sugarcane Jaggery (Gur)"
+      ],
+      "usages": [
+        "prod_29: Solapur Bhagwa Pomegranates (slot 3)",
+        "prod_37: Natural Kolhapur Sugarcane Jaggery (Gur) (slot 0)",
+        "prod_37: Natural Kolhapur Sugarcane Jaggery (Gur) (slot 1)"
+      ]
+    },
+    {
+      "url": "https://images.unsplash.com/photo-1586201375761-83865001e31c?auto=format&fit=crop&w=800&q=80",
+      "distinctProducts": [
+        "Aromatic Basmati Rice (1121)",
+        "MP Sharbati Golden Wheat",
+        "Andhra Sona Masoori Raw Rice",
+        "Organic Finger Millet (Ragi)",
+        "Shankar-6 Raw Cotton Bolls"
+      ],
+      "usages": [
+        "prod_06: Aromatic Basmati Rice (1121) (slot 0)",
+        "prod_06: Aromatic Basmati Rice (1121) (slot 1)",
+        "prod_07: MP Sharbati Golden Wheat (slot 3)",
+        "prod_31: Andhra Sona Masoori Raw Rice (slot 2)",
+        "prod_32: Organic Finger Millet (Ragi) (slot 2)",
+        "prod_13: Shankar-6 Raw Cotton Bolls (slot 2)"
+      ]
+    },
+    {
+      "url": "https://images.unsplash.com/photo-1536304993881-ff6e9eefa2a6?auto=format&fit=crop&w=800&q=80",
+      "distinctProducts": [
+        "Aromatic Basmati Rice (1121)",
+        "MP Sharbati Golden Wheat",
+        "Golden Yellow Maize / Corn",
+        "Andhra Sona Masoori Raw Rice",
+        "Organic Finger Millet (Ragi)"
+      ],
+      "usages": [
+        "prod_06: Aromatic Basmati Rice (1121) (slot 2)",
+        "prod_07: MP Sharbati Golden Wheat (slot 4)",
+        "prod_12: Golden Yellow Maize / Corn (slot 2)",
+        "prod_31: Andhra Sona Masoori Raw Rice (slot 0)",
+        "prod_31: Andhra Sona Masoori Raw Rice (slot 1)",
+        "prod_32: Organic Finger Millet (Ragi) (slot 3)"
+      ]
+    },
+    {
+      "url": "https://images.unsplash.com/photo-1574323347407-f5e1ad6d020b?auto=format&fit=crop&w=800&q=80",
+      "distinctProducts": [
+        "Aromatic Basmati Rice (1121)",
+        "MP Sharbati Golden Wheat",
+        "Golden Yellow Maize / Corn",
+        "Andhra Sona Masoori Raw Rice",
+        "Organic Finger Millet (Ragi)",
+        "Bold Raw Groundnuts (Peanuts)",
+        "Shankar-6 Raw Cotton Bolls"
+      ],
+      "usages": [
+        "prod_06: Aromatic Basmati Rice (1121) (slot 3)",
+        "prod_07: MP Sharbati Golden Wheat (slot 0)",
+        "prod_07: MP Sharbati Golden Wheat (slot 1)",
+        "prod_12: Golden Yellow Maize / Corn (slot 3)",
+        "prod_31: Andhra Sona Masoori Raw Rice (slot 4)",
+        "prod_32: Organic Finger Millet (Ragi) (slot 4)",
+        "prod_11: Bold Raw Groundnuts (Peanuts) (slot 4)",
+        "prod_13: Shankar-6 Raw Cotton Bolls (slot 4)"
+      ]
+    },
+    {
+      "url": "https://images.unsplash.com/photo-1509440159596-0249088772ff?auto=format&fit=crop&w=800&q=80",
+      "distinctProducts": [
+        "Aromatic Basmati Rice (1121)",
+        "MP Sharbati Golden Wheat",
+        "Golden Yellow Maize / Corn",
+        "Andhra Sona Masoori Raw Rice",
+        "Organic Finger Millet (Ragi)",
+        "Bold Raw Groundnuts (Peanuts)",
+        "Shankar-6 Raw Cotton Bolls",
+        "Rajasthan Yellow Mustard Seeds"
+      ],
+      "usages": [
+        "prod_06: Aromatic Basmati Rice (1121) (slot 4)",
+        "prod_07: MP Sharbati Golden Wheat (slot 2)",
+        "prod_12: Golden Yellow Maize / Corn (slot 4)",
+        "prod_31: Andhra Sona Masoori Raw Rice (slot 3)",
+        "prod_32: Organic Finger Millet (Ragi) (slot 0)",
+        "prod_32: Organic Finger Millet (Ragi) (slot 1)",
+        "prod_11: Bold Raw Groundnuts (Peanuts) (slot 3)",
+        "prod_13: Shankar-6 Raw Cotton Bolls (slot 3)",
+        "prod_36: Rajasthan Yellow Mustard Seeds (slot 4)"
+      ]
+    },
+    {
+      "url": "https://images.unsplash.com/photo-1599940824399-b87987ceb72a?auto=format&fit=crop&w=800&q=80",
+      "distinctProducts": [
+        "Guntur Teja Red Chillies",
+        "Lakadong High-Curcumin Turmeric",
+        "Wayanad Fresh Earthy Ginger",
+        "Malabar Black Pepper (Tellicherry Garbled)",
+        "Idukki Green Cardamom (8mm Bold)"
+      ],
+      "usages": [
+        "prod_08: Guntur Teja Red Chillies (slot 3)",
+        "prod_10: Lakadong High-Curcumin Turmeric (slot 3)",
+        "prod_19: Wayanad Fresh Earthy Ginger (slot 4)",
+        "prod_33: Malabar Black Pepper (Tellicherry Garbled) (slot 0)",
+        "prod_33: Malabar Black Pepper (Tellicherry Garbled) (slot 1)",
+        "prod_34: Idukki Green Cardamom (8mm Bold) (slot 2)"
+      ]
+    },
+    {
+      "url": "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?auto=format&fit=crop&w=800&q=80",
+      "distinctProducts": [
+        "Lakadong High-Curcumin Turmeric",
+        "Wayanad Fresh Earthy Ginger",
+        "Malabar Black Pepper (Tellicherry Garbled)",
+        "Idukki Green Cardamom (8mm Bold)"
+      ],
+      "usages": [
+        "prod_10: Lakadong High-Curcumin Turmeric (slot 2)",
+        "prod_19: Wayanad Fresh Earthy Ginger (slot 3)",
+        "prod_33: Malabar Black Pepper (Tellicherry Garbled) (slot 2)",
+        "prod_34: Idukki Green Cardamom (8mm Bold) (slot 0)",
+        "prod_34: Idukki Green Cardamom (8mm Bold) (slot 1)"
+      ]
+    },
+    {
+      "url": "https://images.unsplash.com/photo-1615478443916-2c6b4121bf66?auto=format&fit=crop&w=800&q=80",
+      "distinctProducts": [
+        "Ooty White Garlic Bulbs",
+        "Wayanad Fresh Earthy Ginger"
+      ],
+      "usages": [
+        "prod_18: Ooty White Garlic Bulbs (slot 0)",
+        "prod_18: Ooty White Garlic Bulbs (slot 1)",
+        "prod_19: Wayanad Fresh Earthy Ginger (slot 2)"
+      ]
+    },
+    {
+      "url": "https://images.unsplash.com/photo-1585994192701-f1a505c817ea?auto=format&fit=crop&w=800&q=80",
+      "distinctProducts": [
+        "Black Gram (Split Urad Dal)",
+        "Green Gram (Whole Moong Dal)",
+        "Bengal Gram (Desi Chana Dal)",
+        "Gulbarga Organic Toor Dal (Arhar Dal)"
+      ],
+      "usages": [
+        "prod_14: Black Gram (Split Urad Dal) (slot 0)",
+        "prod_14: Black Gram (Split Urad Dal) (slot 1)",
+        "prod_15: Green Gram (Whole Moong Dal) (slot 2)",
+        "prod_16: Bengal Gram (Desi Chana Dal) (slot 2)",
+        "prod_35: Gulbarga Organic Toor Dal (Arhar Dal) (slot 3)"
+      ]
+    },
+    {
+      "url": "https://images.unsplash.com/photo-1612255109949-a86fad294ba5?auto=format&fit=crop&w=800&q=80",
+      "distinctProducts": [
+        "Black Gram (Split Urad Dal)",
+        "Green Gram (Whole Moong Dal)",
+        "Bengal Gram (Desi Chana Dal)",
+        "Gulbarga Organic Toor Dal (Arhar Dal)"
+      ],
+      "usages": [
+        "prod_14: Black Gram (Split Urad Dal) (slot 2)",
+        "prod_15: Green Gram (Whole Moong Dal) (slot 0)",
+        "prod_15: Green Gram (Whole Moong Dal) (slot 1)",
+        "prod_16: Bengal Gram (Desi Chana Dal) (slot 3)",
+        "prod_35: Gulbarga Organic Toor Dal (Arhar Dal) (slot 4)"
+      ]
+    },
+    {
+      "url": "https://images.unsplash.com/photo-1515543237350-b3eea1ec8082?auto=format&fit=crop&w=800&q=80",
+      "distinctProducts": [
+        "Black Gram (Split Urad Dal)",
+        "Green Gram (Whole Moong Dal)",
+        "Bengal Gram (Desi Chana Dal)",
+        "Gulbarga Organic Toor Dal (Arhar Dal)"
+      ],
+      "usages": [
+        "prod_14: Black Gram (Split Urad Dal) (slot 3)",
+        "prod_15: Green Gram (Whole Moong Dal) (slot 3)",
+        "prod_16: Bengal Gram (Desi Chana Dal) (slot 0)",
+        "prod_16: Bengal Gram (Desi Chana Dal) (slot 1)",
+        "prod_35: Gulbarga Organic Toor Dal (Arhar Dal) (slot 2)"
+      ]
+    },
+    {
+      "url": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&w=800&q=80",
+      "distinctProducts": [
+        "Black Gram (Split Urad Dal)",
+        "Green Gram (Whole Moong Dal)",
+        "Bengal Gram (Desi Chana Dal)",
+        "Gulbarga Organic Toor Dal (Arhar Dal)"
+      ],
+      "usages": [
+        "prod_14: Black Gram (Split Urad Dal) (slot 4)",
+        "prod_15: Green Gram (Whole Moong Dal) (slot 4)",
+        "prod_16: Bengal Gram (Desi Chana Dal) (slot 4)",
+        "prod_35: Gulbarga Organic Toor Dal (Arhar Dal) (slot 0)",
+        "prod_35: Gulbarga Organic Toor Dal (Arhar Dal) (slot 1)"
+      ]
+    },
+    {
+      "url": "https://images.unsplash.com/photo-1567894340315-735d7c361db0?auto=format&fit=crop&w=800&q=80",
+      "distinctProducts": [
+        "Bold Raw Groundnuts (Peanuts)",
+        "Rajasthan Yellow Mustard Seeds"
+      ],
+      "usages": [
+        "prod_11: Bold Raw Groundnuts (Peanuts) (slot 0)",
+        "prod_11: Bold Raw Groundnuts (Peanuts) (slot 1)",
+        "prod_36: Rajasthan Yellow Mustard Seeds (slot 2)"
+      ]
+    }
+  ],
+  "products": [
+    {
+      "id": "prod_01",
+      "name": "Fresh Farm Tomatoes",
+      "category": "Vegetables",
+      "image": "https://images.unsplash.com/photo-1592924357228-91a4daadcfea?auto=format&fit=crop&w=800&q=80",
+      "galleryLength": 4,
+      "gallery": [
+        "https://images.unsplash.com/photo-1592924357228-91a4daadcfea?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1546470427-0d4db154ceb7?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1582284540020-8acbe03f4924?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1561136594-7f68413baa99?auto=format&fit=crop&w=800&q=80"
+      ]
+    },
+    {
+      "id": "prod_02",
+      "name": "Nasik Red Onions",
+      "category": "Vegetables",
+      "image": "https://images.unsplash.com/photo-1618512496248-a07fe83aa8cb?auto=format&fit=crop&w=800&q=80",
+      "galleryLength": 4,
+      "gallery": [
+        "https://images.unsplash.com/photo-1618512496248-a07fe83aa8cb?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1580201092675-a0a6a6cafbb1?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1508747703725-719777637510?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1518977956812-cd3dbadaaf31?auto=format&fit=crop&w=800&q=80"
+      ]
+    },
+    {
+      "id": "prod_03",
+      "name": "Agra Jyoti Potatoes",
+      "category": "Vegetables",
+      "image": "https://images.unsplash.com/photo-1518977676601-b53f82aba655?auto=format&fit=crop&w=800&q=80",
+      "galleryLength": 4,
+      "gallery": [
+        "https://images.unsplash.com/photo-1518977676601-b53f82aba655?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1508313880080-c4bef0730395?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1590165482129-1b8b27698780?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1540420773420-3366772f4999?auto=format&fit=crop&w=800&q=80"
+      ]
+    },
+    {
+      "id": "prod_09",
+      "name": "Fresh Pungent Green Chillies",
+      "category": "Vegetables",
+      "image": "https://images.unsplash.com/photo-1563865436874-9aef32095fad?auto=format&fit=crop&w=800&q=80",
+      "galleryLength": 4,
+      "gallery": [
+        "https://images.unsplash.com/photo-1563865436874-9aef32095fad?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1588252303782-cb80119abd6d?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1584270354949-c26b0d5b4a0c?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1564834724105-918b73d1b9e0?auto=format&fit=crop&w=800&q=80"
+      ]
+    },
+    {
+      "id": "prod_17",
+      "name": "Fresh Leafy Coriander Bunches",
+      "category": "Vegetables",
+      "image": "https://images.unsplash.com/photo-1598170845058-32b9d6a5da37?auto=format&fit=crop&w=800&q=80",
+      "galleryLength": 4,
+      "gallery": [
+        "https://images.unsplash.com/photo-1598170845058-32b9d6a5da37?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1509358271058-acd22cc93898?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1576045057995-568f588f82fb?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1615485290382-441e4d049cb5?auto=format&fit=crop&w=800&q=80"
+      ]
+    },
+    {
+      "id": "prod_22",
+      "name": "Tender Green Okra (Bhindi)",
+      "category": "Vegetables",
+      "image": "https://images.unsplash.com/photo-1525607551316-4a8e16d1f9ba?auto=format&fit=crop&w=800&q=80",
+      "galleryLength": 4,
+      "gallery": [
+        "https://images.unsplash.com/photo-1525607551316-4a8e16d1f9ba?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1563565375-f3fdfdbefa83?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1594282486552-05b4d80fbb9f?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1592924357228-91a4daadcfea?auto=format&fit=crop&w=800&q=80"
+      ]
+    },
+    {
+      "id": "prod_23",
+      "name": "Snow White Cauliflower",
+      "category": "Vegetables",
+      "image": "https://images.unsplash.com/photo-1568584711075-3d021a7c3ca3?auto=format&fit=crop&w=800&q=80",
+      "galleryLength": 4,
+      "gallery": [
+        "https://images.unsplash.com/photo-1568584711075-3d021a7c3ca3?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1594282486552-05b4d80fbb9f?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1540420773420-3366772f4999?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1576045057995-568f588f82fb?auto=format&fit=crop&w=800&q=80"
+      ]
+    },
+    {
+      "id": "prod_24",
+      "name": "Crisp Green Cabbage",
+      "category": "Vegetables",
+      "image": "https://images.unsplash.com/photo-1594282486552-05b4d80fbb9f?auto=format&fit=crop&w=800&q=80",
+      "galleryLength": 4,
+      "gallery": [
+        "https://images.unsplash.com/photo-1594282486552-05b4d80fbb9f?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1568584711075-3d021a7c3ca3?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1563565375-f3fdfdbefa83?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1576045057995-568f588f82fb?auto=format&fit=crop&w=800&q=80"
+      ]
+    },
+    {
+      "id": "prod_25",
+      "name": "Shimla Green Bell Capsicum",
+      "category": "Vegetables",
+      "image": "https://images.unsplash.com/photo-1563565375-f3fdfdbefa83?auto=format&fit=crop&w=800&q=80",
+      "galleryLength": 4,
+      "gallery": [
+        "https://images.unsplash.com/photo-1563565375-f3fdfdbefa83?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1563865436874-9aef32095fad?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1525607551316-4a8e16d1f9ba?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1594282486552-05b4d80fbb9f?auto=format&fit=crop&w=800&q=80"
+      ]
+    },
+    {
+      "id": "prod_26",
+      "name": "Fresh Farm Spinach (Palak)",
+      "category": "Vegetables",
+      "image": "https://images.unsplash.com/photo-1576045057995-568f588f82fb?auto=format&fit=crop&w=800&q=80",
+      "galleryLength": 4,
+      "gallery": [
+        "https://images.unsplash.com/photo-1576045057995-568f588f82fb?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1598170845058-32b9d6a5da37?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1568584711075-3d021a7c3ca3?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1594282486552-05b4d80fbb9f?auto=format&fit=crop&w=800&q=80"
+      ]
+    },
+    {
+      "id": "prod_04",
+      "name": "Banganapalli Golden Mangoes",
+      "category": "Fruits",
+      "image": "https://images.unsplash.com/photo-1553279768-865429fa0078?auto=format&fit=crop&w=800&q=80",
+      "galleryLength": 4,
+      "gallery": [
+        "https://images.unsplash.com/photo-1553279768-865429fa0078?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1601493700631-2b16ec4b4716?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1591073113125-e46713c829ed?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1605027990121-cbae9e0642df?auto=format&fit=crop&w=800&q=80"
+      ]
+    },
+    {
+      "id": "prod_05",
+      "name": "Robusta Golden Bananas",
+      "category": "Fruits",
+      "image": "https://images.unsplash.com/photo-1571771894821-ce9b6c11b08e?auto=format&fit=crop&w=800&q=80",
+      "galleryLength": 4,
+      "gallery": [
+        "https://images.unsplash.com/photo-1571771894821-ce9b6c11b08e?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1528825871115-3581a5387919?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1603052875302-d376b7c0638a?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1543218024-57a70143c369?auto=format&fit=crop&w=800&q=80"
+      ]
+    },
+    {
+      "id": "prod_27",
+      "name": "Ratnagiri Alphonso Mangoes (Hapus)",
+      "category": "Fruits",
+      "image": "https://images.unsplash.com/photo-1601493700631-2b16ec4b4716?auto=format&fit=crop&w=800&q=80",
+      "galleryLength": 4,
+      "gallery": [
+        "https://images.unsplash.com/photo-1601493700631-2b16ec4b4716?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1553279768-865429fa0078?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1591073113125-e46713c829ed?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1605027990121-cbae9e0642df?auto=format&fit=crop&w=800&q=80"
+      ]
+    },
+    {
+      "id": "prod_28",
+      "name": "Kashmir Red Delicious Apples",
+      "category": "Fruits",
+      "image": "https://images.unsplash.com/photo-1560806887-1e4cd0b6cbd6?auto=format&fit=crop&w=800&q=80",
+      "galleryLength": 4,
+      "gallery": [
+        "https://images.unsplash.com/photo-1560806887-1e4cd0b6cbd6?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1570913149827-d2ac84ab3f9a?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1619546813926-a78fa6372cd2?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1579613832125-5d34a13ffe0a?auto=format&fit=crop&w=800&q=80"
+      ]
+    },
+    {
+      "id": "prod_29",
+      "name": "Solapur Bhagwa Pomegranates",
+      "category": "Fruits",
+      "image": "https://images.unsplash.com/photo-1615485290382-441e4d049cb5?auto=format&fit=crop&w=800&q=80",
+      "galleryLength": 4,
+      "gallery": [
+        "https://images.unsplash.com/photo-1615485290382-441e4d049cb5?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1550258987-190a2d41a8ba?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1541832676-9b763b0239ab?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1560806887-1e4cd0b6cbd6?auto=format&fit=crop&w=800&q=80"
+      ]
+    },
+    {
+      "id": "prod_30",
+      "name": "Nagpur Sweet Mandarin Oranges",
+      "category": "Fruits",
+      "image": "https://images.unsplash.com/photo-1582979512210-99b6a53386f9?auto=format&fit=crop&w=800&q=80",
+      "galleryLength": 4,
+      "gallery": [
+        "https://images.unsplash.com/photo-1582979512210-99b6a53386f9?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1547514701-42782101795e?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1611080626919-7cf5a9dbab5b?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1580052614034-c55d20bfee3b?auto=format&fit=crop&w=800&q=80"
+      ]
+    },
+    {
+      "id": "prod_06",
+      "name": "Aromatic Basmati Rice (1121)",
+      "category": "Grains",
+      "image": "https://images.unsplash.com/photo-1586201375761-83865001e31c?auto=format&fit=crop&w=800&q=80",
+      "galleryLength": 4,
+      "gallery": [
+        "https://images.unsplash.com/photo-1586201375761-83865001e31c?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1536304993881-ff6e9eefa2a6?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1574323347407-f5e1ad6d020b?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1509440159596-0249088772ff?auto=format&fit=crop&w=800&q=80"
+      ]
+    },
+    {
+      "id": "prod_07",
+      "name": "MP Sharbati Golden Wheat",
+      "category": "Grains",
+      "image": "https://images.unsplash.com/photo-1574323347407-f5e1ad6d020b?auto=format&fit=crop&w=800&q=80",
+      "galleryLength": 4,
+      "gallery": [
+        "https://images.unsplash.com/photo-1574323347407-f5e1ad6d020b?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1509440159596-0249088772ff?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1586201375761-83865001e31c?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1536304993881-ff6e9eefa2a6?auto=format&fit=crop&w=800&q=80"
+      ]
+    },
+    {
+      "id": "prod_12",
+      "name": "Golden Yellow Maize / Corn",
+      "category": "Grains",
+      "image": "https://images.unsplash.com/photo-1551754655-cd27e38d2076?auto=format&fit=crop&w=800&q=80",
+      "galleryLength": 4,
+      "gallery": [
+        "https://images.unsplash.com/photo-1551754655-cd27e38d2076?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1536304993881-ff6e9eefa2a6?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1574323347407-f5e1ad6d020b?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1509440159596-0249088772ff?auto=format&fit=crop&w=800&q=80"
+      ]
+    },
+    {
+      "id": "prod_31",
+      "name": "Andhra Sona Masoori Raw Rice",
+      "category": "Grains",
+      "image": "https://images.unsplash.com/photo-1536304993881-ff6e9eefa2a6?auto=format&fit=crop&w=800&q=80",
+      "galleryLength": 4,
+      "gallery": [
+        "https://images.unsplash.com/photo-1536304993881-ff6e9eefa2a6?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1586201375761-83865001e31c?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1509440159596-0249088772ff?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1574323347407-f5e1ad6d020b?auto=format&fit=crop&w=800&q=80"
+      ]
+    },
+    {
+      "id": "prod_32",
+      "name": "Organic Finger Millet (Ragi)",
+      "category": "Grains",
+      "image": "https://images.unsplash.com/photo-1509440159596-0249088772ff?auto=format&fit=crop&w=800&q=80",
+      "galleryLength": 4,
+      "gallery": [
+        "https://images.unsplash.com/photo-1509440159596-0249088772ff?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1586201375761-83865001e31c?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1536304993881-ff6e9eefa2a6?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1574323347407-f5e1ad6d020b?auto=format&fit=crop&w=800&q=80"
+      ]
+    },
+    {
+      "id": "prod_08",
+      "name": "Guntur Teja Red Chillies",
+      "category": "Spices",
+      "image": "https://images.unsplash.com/photo-1588252303782-cb80119abd6d?auto=format&fit=crop&w=800&q=80",
+      "galleryLength": 4,
+      "gallery": [
+        "https://images.unsplash.com/photo-1588252303782-cb80119abd6d?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1563865436874-9aef32095fad?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1599940824399-b87987ceb72a?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1615485290382-441e4d049cb5?auto=format&fit=crop&w=800&q=80"
+      ]
+    },
+    {
+      "id": "prod_10",
+      "name": "Lakadong High-Curcumin Turmeric",
+      "category": "Spices",
+      "image": "https://images.unsplash.com/photo-1615485290382-441e4d049cb5?auto=format&fit=crop&w=800&q=80",
+      "galleryLength": 4,
+      "gallery": [
+        "https://images.unsplash.com/photo-1615485290382-441e4d049cb5?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1599940824399-b87987ceb72a?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1588252303782-cb80119abd6d?auto=format&fit=crop&w=800&q=80"
+      ]
+    },
+    {
+      "id": "prod_18",
+      "name": "Ooty White Garlic Bulbs",
+      "category": "Spices",
+      "image": "https://images.unsplash.com/photo-1615478443916-2c6b4121bf66?auto=format&fit=crop&w=800&q=80",
+      "galleryLength": 4,
+      "gallery": [
+        "https://images.unsplash.com/photo-1615478443916-2c6b4121bf66?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1540420773420-3366772f4999?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1618512496248-a07fe83aa8cb?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1615485290382-441e4d049cb5?auto=format&fit=crop&w=800&q=80"
+      ]
+    },
+    {
+      "id": "prod_19",
+      "name": "Wayanad Fresh Earthy Ginger",
+      "category": "Spices",
+      "image": "https://images.unsplash.com/photo-1615485290382-441e4d049cb5?auto=format&fit=crop&w=800&q=80",
+      "galleryLength": 4,
+      "gallery": [
+        "https://images.unsplash.com/photo-1615485290382-441e4d049cb5?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1615478443916-2c6b4121bf66?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1599940824399-b87987ceb72a?auto=format&fit=crop&w=800&q=80"
+      ]
+    },
+    {
+      "id": "prod_33",
+      "name": "Malabar Black Pepper (Tellicherry Garbled)",
+      "category": "Spices",
+      "image": "https://images.unsplash.com/photo-1599940824399-b87987ceb72a?auto=format&fit=crop&w=800&q=80",
+      "galleryLength": 4,
+      "gallery": [
+        "https://images.unsplash.com/photo-1599940824399-b87987ceb72a?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1588252303782-cb80119abd6d?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1615485290382-441e4d049cb5?auto=format&fit=crop&w=800&q=80"
+      ]
+    },
+    {
+      "id": "prod_34",
+      "name": "Idukki Green Cardamom (8mm Bold)",
+      "category": "Spices",
+      "image": "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?auto=format&fit=crop&w=800&q=80",
+      "galleryLength": 4,
+      "gallery": [
+        "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1599940824399-b87987ceb72a?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1588252303782-cb80119abd6d?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1615485290382-441e4d049cb5?auto=format&fit=crop&w=800&q=80"
+      ]
+    },
+    {
+      "id": "prod_14",
+      "name": "Black Gram (Split Urad Dal)",
+      "category": "Pulses",
+      "image": "https://images.unsplash.com/photo-1585994192701-f1a505c817ea?auto=format&fit=crop&w=800&q=80",
+      "galleryLength": 4,
+      "gallery": [
+        "https://images.unsplash.com/photo-1585994192701-f1a505c817ea?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1612255109949-a86fad294ba5?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1515543237350-b3eea1ec8082?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&w=800&q=80"
+      ]
+    },
+    {
+      "id": "prod_15",
+      "name": "Green Gram (Whole Moong Dal)",
+      "category": "Pulses",
+      "image": "https://images.unsplash.com/photo-1612255109949-a86fad294ba5?auto=format&fit=crop&w=800&q=80",
+      "galleryLength": 4,
+      "gallery": [
+        "https://images.unsplash.com/photo-1612255109949-a86fad294ba5?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1585994192701-f1a505c817ea?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1515543237350-b3eea1ec8082?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&w=800&q=80"
+      ]
+    },
+    {
+      "id": "prod_16",
+      "name": "Bengal Gram (Desi Chana Dal)",
+      "category": "Pulses",
+      "image": "https://images.unsplash.com/photo-1515543237350-b3eea1ec8082?auto=format&fit=crop&w=800&q=80",
+      "galleryLength": 4,
+      "gallery": [
+        "https://images.unsplash.com/photo-1515543237350-b3eea1ec8082?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1585994192701-f1a505c817ea?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1612255109949-a86fad294ba5?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&w=800&q=80"
+      ]
+    },
+    {
+      "id": "prod_35",
+      "name": "Gulbarga Organic Toor Dal (Arhar Dal)",
+      "category": "Pulses",
+      "image": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&w=800&q=80",
+      "galleryLength": 4,
+      "gallery": [
+        "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1515543237350-b3eea1ec8082?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1585994192701-f1a505c817ea?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1612255109949-a86fad294ba5?auto=format&fit=crop&w=800&q=80"
+      ]
+    },
+    {
+      "id": "prod_11",
+      "name": "Bold Raw Groundnuts (Peanuts)",
+      "category": "Oil Seeds",
+      "image": "https://images.unsplash.com/photo-1567894340315-735d7c361db0?auto=format&fit=crop&w=800&q=80",
+      "galleryLength": 4,
+      "gallery": [
+        "https://images.unsplash.com/photo-1567894340315-735d7c361db0?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1509358271058-acd22cc93898?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1509440159596-0249088772ff?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1574323347407-f5e1ad6d020b?auto=format&fit=crop&w=800&q=80"
+      ]
+    },
+    {
+      "id": "prod_13",
+      "name": "Shankar-6 Raw Cotton Bolls",
+      "category": "Other Agricultural Products",
+      "image": "https://images.unsplash.com/photo-1606041008023-472dfb5e530f?auto=format&fit=crop&w=800&q=80",
+      "galleryLength": 4,
+      "gallery": [
+        "https://images.unsplash.com/photo-1606041008023-472dfb5e530f?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1586201375761-83865001e31c?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1509440159596-0249088772ff?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1574323347407-f5e1ad6d020b?auto=format&fit=crop&w=800&q=80"
+      ]
+    },
+    {
+      "id": "prod_36",
+      "name": "Rajasthan Yellow Mustard Seeds",
+      "category": "Oil Seeds",
+      "image": "https://images.unsplash.com/photo-1509358271058-acd22cc93898?auto=format&fit=crop&w=800&q=80",
+      "galleryLength": 4,
+      "gallery": [
+        "https://images.unsplash.com/photo-1509358271058-acd22cc93898?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1567894340315-735d7c361db0?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1615485290382-441e4d049cb5?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1509440159596-0249088772ff?auto=format&fit=crop&w=800&q=80"
+      ]
+    },
+    {
+      "id": "prod_37",
+      "name": "Natural Kolhapur Sugarcane Jaggery (Gur)",
+      "category": "Other Agricultural Products",
+      "image": "https://images.unsplash.com/photo-1541832676-9b763b0239ab?auto=format&fit=crop&w=800&q=80",
+      "galleryLength": 4,
+      "gallery": [
+        "https://images.unsplash.com/photo-1541832676-9b763b0239ab?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1550258987-190a2d41a8ba?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1615485290382-441e4d049cb5?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1560806887-1e4cd0b6cbd6?auto=format&fit=crop&w=800&q=80"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,308 @@
+{
+  "passedTests": 176,
+  "failedTests": 0,
+  "auditReport": [
+    {
+      "productId": "p001",
+      "expectedName": "Fresh Farm Tomatoes",
+      "found": true,
+      "imagesCount": 3,
+      "images": [
+        "/products/p001/image-1.jpg",
+        "/products/p001/image-2.jpg",
+        "/products/p001/image-3.jpg"
+      ],
+      "video": null,
+      "mappingStatus": "PASS",
+      "httpStatus": "PASS",
+      "dataConsistency": "PASS"
+    },
+    {
+      "productId": "p002",
+      "expectedName": "Nasik Red Onions",
+      "found": true,
+      "imagesCount": 4,
+      "images": [
+        "/products/p002/image-1.jpg",
+        "/products/p002/image-2.jpg",
+        "/products/p002/image-3.jpg",
+        "/products/p002/image-4.jpg"
+      ],
+      "video": null,
+      "mappingStatus": "PASS",
+      "httpStatus": "PASS",
+      "dataConsistency": "PASS"
+    },
+    {
+      "productId": "p003",
+      "expectedName": "Agra Jyoti Potatoes",
+      "found": true,
+      "imagesCount": 4,
+      "images": [
+        "/products/p003/image-1.jpg",
+        "/products/p003/image-2.jpg",
+        "/products/p003/image-3.jpg",
+        "/products/p003/image-4.jpg"
+      ],
+      "video": null,
+      "mappingStatus": "PASS",
+      "httpStatus": "PASS",
+      "dataConsistency": "PASS"
+    },
+    {
+      "productId": "p004",
+      "expectedName": "Banganapalli Golden Mangoes",
+      "found": true,
+      "imagesCount": 3,
+      "images": [
+        "/products/p004/image-1.jpg",
+        "/products/p004/image-2.jpg",
+        "/products/p004/image-3.jpg"
+      ],
+      "video": null,
+      "mappingStatus": "PASS",
+      "httpStatus": "PASS",
+      "dataConsistency": "PASS"
+    },
+    {
+      "productId": "p005",
+      "expectedName": "Robusta Golden Bananas",
+      "found": true,
+      "imagesCount": 4,
+      "images": [
+        "/products/p005/image-1.jpg",
+        "/products/p005/image-2.jpg",
+        "/products/p005/image-3.jpg",
+        "/products/p005/image-4.jpg"
+      ],
+      "video": null,
+      "mappingStatus": "PASS",
+      "httpStatus": "PASS",
+      "dataConsistency": "PASS"
+    },
+    {
+      "productId": "p006",
+      "expectedName": "Aromatic Basmati Rice (1121)",
+      "found": true,
+      "imagesCount": 1,
+      "images": [
+        "/products/p006/image-1.jpg"
+      ],
+      "video": null,
+      "mappingStatus": "PASS",
+      "httpStatus": "PASS",
+      "dataConsistency": "PASS"
+    },
+    {
+      "productId": "p007",
+      "expectedName": "MP Sharbati Golden Wheat",
+      "found": true,
+      "imagesCount": 1,
+      "images": [
+        "/products/p007/image-1.jpg"
+      ],
+      "video": null,
+      "mappingStatus": "PASS",
+      "httpStatus": "PASS",
+      "dataConsistency": "PASS"
+    },
+    {
+      "productId": "p008",
+      "expectedName": "Guntur Teja Red Chillies",
+      "found": true,
+      "imagesCount": 1,
+      "images": [
+        "/products/p008/image-1.jpg"
+      ],
+      "video": null,
+      "mappingStatus": "PASS",
+      "httpStatus": "PASS",
+      "dataConsistency": "PASS"
+    },
+    {
+      "productId": "p009",
+      "expectedName": "Fresh Pungent Green Chillies",
+      "found": true,
+      "imagesCount": 1,
+      "images": [
+        "/products/p009/image-1.jpg"
+      ],
+      "video": null,
+      "mappingStatus": "PASS",
+      "httpStatus": "PASS",
+      "dataConsistency": "PASS"
+    },
+    {
+      "productId": "p010",
+      "expectedName": "Lakadong High-Curcumin Turmeric",
+      "found": true,
+      "imagesCount": 1,
+      "images": [
+        "/products/p010/image-1.jpg"
+      ],
+      "video": null,
+      "mappingStatus": "PASS",
+      "httpStatus": "PASS",
+      "dataConsistency": "PASS"
+    },
+    {
+      "productId": "p011",
+      "expectedName": "Bold Raw Groundnuts (Peanuts)",
+      "found": true,
+      "imagesCount": 1,
+      "images": [
+        "/products/p011/image-1.jpg"
+      ],
+      "video": null,
+      "mappingStatus": "PASS",
+      "httpStatus": "PASS",
+      "dataConsistency": "PASS"
+    },
+    {
+      "productId": "p012",
+      "expectedName": "Golden Yellow Maize / Corn",
+      "found": true,
+      "imagesCount": 3,
+      "images": [
+        "/products/p012/image-1.jpg",
+        "/products/p012/image-2.jpg",
+        "/products/p012/image-3.jpg"
+      ],
+      "video": null,
+      "mappingStatus": "PASS",
+      "httpStatus": "PASS",
+      "dataConsistency": "PASS"
+    },
+    {
+      "productId": "p013",
+      "expectedName": "Shankar-6 Raw Cotton Bolls",
+      "found": true,
+      "imagesCount": 1,
+      "images": [
+        "/products/p013/image-1.jpg"
+      ],
+      "video": null,
+      "mappingStatus": "PASS",
+      "httpStatus": "PASS",
+      "dataConsistency": "PASS"
+    },
+    {
+      "productId": "p014",
+      "expectedName": "Black Gram (Split Urad Dal)",
+      "found": true,
+      "imagesCount": 1,
+      "images": [
+        "/products/p014/image-1.jpg"
+      ],
+      "video": null,
+      "mappingStatus": "PASS",
+      "httpStatus": "PASS",
+      "dataConsistency": "PASS"
+    },
+    {
+      "productId": "p015",
+      "expectedName": "Green Gram (Whole Moong Dal)",
+      "found": true,
+      "imagesCount": 1,
+      "images": [
+        "/products/p015/image-1.jpg"
+      ],
+      "video": null,
+      "mappingStatus": "PASS",
+      "httpStatus": "PASS",
+      "dataConsistency": "PASS"
+    },
+    {
+      "productId": "p016",
+      "expectedName": "Bengal Gram (Desi Chana Dal)",
+      "found": true,
+      "imagesCount": 1,
+      "images": [
+        "/products/p016/image-1.jpg"
+      ],
+      "video": null,
+      "mappingStatus": "PASS",
+      "httpStatus": "PASS",
+      "dataConsistency": "PASS"
+    },
+    {
+      "productId": "p017",
+      "expectedName": "Fresh Leafy Coriander Bunches",
+      "found": true,
+      "imagesCount": 1,
+      "images": [
+        "/products/p017/image-1.jpg"
+      ],
+      "video": null,
+      "mappingStatus": "PASS",
+      "httpStatus": "PASS",
+      "dataConsistency": "PASS"
+    },
+    {
+      "productId": "p018",
+      "expectedName": "Ooty White Garlic Bulbs",
+      "found": true,
+      "imagesCount": 1,
+      "images": [
+        "/products/p018/image-1.jpg"
+      ],
+      "video": null,
+      "mappingStatus": "PASS",
+      "httpStatus": "PASS",
+      "dataConsistency": "PASS"
+    },
+    {
+      "productId": "p019",
+      "expectedName": "Wayanad Fresh Earthy Ginger",
+      "found": true,
+      "imagesCount": 1,
+      "images": [
+        "/products/p019/image-1.jpg"
+      ],
+      "video": null,
+      "mappingStatus": "PASS",
+      "httpStatus": "PASS",
+      "dataConsistency": "PASS"
+    },
+    {
+      "productId": "p020",
+      "expectedName": "Crunchy Orange Carrots",
+      "found": true,
+      "imagesCount": 1,
+      "images": [
+        "/products/p020/image-1.jpg"
+      ],
+      "video": null,
+      "mappingStatus": "PASS",
+      "httpStatus": "PASS",
+      "dataConsistency": "PASS"
+    },
+    {
+      "productId": "p021",
+      "expectedName": "Purple Glossy Brinjal (Eggplant)",
+      "found": true,
+      "imagesCount": 1,
+      "images": [
+        "/products/p021/image-1.jpg"
+      ],
+      "video": null,
+      "mappingStatus": "PASS",
+      "httpStatus": "PASS",
+      "dataConsistency": "PASS"
+    },
+    {
+      "productId": "p022",
+      "expectedName": "Tender Green Okra (Bhindi)",
+      "found": true,
+      "imagesCount": 2,
+      "images": [
+        "/products/p022/image-1.jpg",
+        "/products/p022/image-2.jpg"
+      ],
+      "video": null,
+      "mappingStatus": "PASS",
+      "httpStatus": "PASS",
+      "dataConsistency": "PASS"
+    }
+  ]
+}
