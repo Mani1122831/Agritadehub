@@ -224,7 +224,7 @@ Inspect the root and subfolders to find the relevant `package.json` files. If th
 **Terminal 1 — frontend**
 
 ```bash
-cd frontend
+cd client
 npm install
 npm run dev
 ```
@@ -232,7 +232,7 @@ npm run dev
 **Terminal 2 — backend**
 
 ```bash
-cd backend
+cd server
 npm install
 npm run dev
 ```
