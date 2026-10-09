@@ -46,3 +46,16 @@ desktop.ini
 .idea/
 *.swp
 *.swo
+# Google Cloud and service-account credentials
+*service-account*.json
+google-credentials*.json
+credentials*.json
+secrets/
+credentials/
+
+# Private certificates and keys
+*.p12
+*.pfx
+
+# Deployment secrets
+.vercel/
